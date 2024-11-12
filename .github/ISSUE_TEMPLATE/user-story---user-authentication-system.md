@@ -1,6 +1,7 @@
 ---
-name: 'User Story : User Authentication System'
-about: This template for creating user story
+name: research authentication in React and Express
+about: this task involves researching methods to set up authentication in both React
+  and Express.
 title: ''
 labels: new
 assignees: ''

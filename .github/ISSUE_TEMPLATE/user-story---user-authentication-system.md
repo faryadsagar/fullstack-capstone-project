@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# User Story: User Authentication System
-
 **As a** product manager  
 **I need** a user authentication system  
 **So that** users can securely log in and access their personalized content.

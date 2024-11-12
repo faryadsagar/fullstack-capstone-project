@@ -2,7 +2,7 @@
 name: Implement a landing page and navigation
 about: Implement a landing page and navigation
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Deploy backend and frontend
 about: Deploy backend and frontend
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

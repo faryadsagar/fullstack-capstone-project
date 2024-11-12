@@ -2,7 +2,7 @@
 name: 'User Story : User Authentication System'
 about: This template for creating user story
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

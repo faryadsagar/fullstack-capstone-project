@@ -2,7 +2,7 @@
 name: Add authentication components and logic
 about: Add authentication components and logic
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

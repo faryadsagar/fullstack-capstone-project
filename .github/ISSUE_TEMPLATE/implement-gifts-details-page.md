@@ -2,7 +2,7 @@
 name: Implement Gifts details page
 about: " Implement Gifts details page and other info"
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

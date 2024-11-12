@@ -2,7 +2,7 @@
 name: " Initialize and populate MongoDB"
 about: " Initialize and populate MongoDB and other config"
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

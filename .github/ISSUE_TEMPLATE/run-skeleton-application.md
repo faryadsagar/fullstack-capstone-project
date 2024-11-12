@@ -2,7 +2,7 @@
 name: Run skeleton application
 about: Run skeleton application
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

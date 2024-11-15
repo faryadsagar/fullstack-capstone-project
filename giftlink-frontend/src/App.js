@@ -8,7 +8,11 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar';
 function App() {
   const navigate = useNavigate();
-  return (
+
+  // Example usage
+  const handleLoginRedirect = () => {
+    navigate('/app/login');
+  };  return (
         <>
         <Navbar/>
         <Routes>
